@@ -20,9 +20,11 @@ Chatify is a simple chat website that allows users to chat with friends and part
 
 ## ScreenShots
 
-### Login page
+### Login Page
+![Home Page](screenshots/chat-page.png)
 
-### Chat page
+### Chat Page
+![Chat Page](screenshots/image.png)
 
 ## Acknowledgements
 
